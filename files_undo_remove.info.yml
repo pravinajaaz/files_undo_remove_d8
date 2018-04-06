@@ -1,0 +1,4 @@
+type: module
+name : Files undo remove
+description : 'Adds the capability to undo the removal of a file.'
+core : 8.x

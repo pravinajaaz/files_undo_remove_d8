@@ -1,0 +1,6 @@
+
+tr.color-warning .image-preview,
+tr.color-warning .tabledrag-handle,
+tr.color-warning .form-managed-file .form-item {
+  display: none;
+}

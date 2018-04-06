@@ -1,0 +1,11 @@
+files_undo_remove.undo:
+  # Add css file.
+  css:
+    component:
+      css/files_undo_remove.css: {}
+  # Add js files.
+  js:
+    js/files_undo_remove.js: { }
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
